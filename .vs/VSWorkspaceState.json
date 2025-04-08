@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Sesion01",
+    "\\Sesion02",
+    "\\Sesion02\\ShoppingCart",
+    "\\Sesion02\\ShoppingCart\\Controllers",
+    "\\Sesion02\\ShoppingCart\\Data",
+    "\\Sesion02\\ShoppingCart\\Interfaces",
+    "\\Sesion02\\ShoppingCart\\Models"
+  ],
+  "SelectedNode": "\\Sesion02\\ShoppingCart\\Models\\Product.cs",
+  "PreviewInSolutionExplorer": false
+}
