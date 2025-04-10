@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "NotificationAPI.Controllers.NotificationController",
+    "Method": "SendEmail",
+    "RelativePath": "api/Notification/email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "message",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NotificationAPI.Controllers.NotificationController",
+    "Method": "SendSms",
+    "RelativePath": "api/Notification/sms",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "message",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NotificationAPI.Controllers.NotificationController",
+    "Method": "SendWhatsApp",
+    "RelativePath": "api/Notification/whatsapp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "message",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
